@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ashlynndavis.github.io/the-code-of-you-new",
   "name": "the-code-of-you-new",
   "version": "0.1.0",
   "private": true,
@@ -35,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6"
   }
 }
