@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/the-code-of-you-new.git/static/css/main.41c3ebb7.css",
+    "main.js": "/the-code-of-you-new.git/static/js/main.d5199ca9.js",
+    "index.html": "/the-code-of-you-new.git/index.html",
+    "main.41c3ebb7.css.map": "/the-code-of-you-new.git/static/css/main.41c3ebb7.css.map",
+    "main.d5199ca9.js.map": "/the-code-of-you-new.git/static/js/main.d5199ca9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41c3ebb7.css",
+    "static/js/main.d5199ca9.js"
+  ]
+}
